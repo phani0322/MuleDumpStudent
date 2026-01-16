@@ -4,7 +4,7 @@
   <Project>PL-FA_V3</Project>
   <Date>20251209</Date>
   <Type>VAT</Type>
-  <Currency_code>USD</Currency_code>
+  <Currency_code>EUR</Currency_code>
   <VAT_currency_code>PLN</VAT_currency_code>
   <Tax_point_date>20250822</Tax_point_date>
   <Purchase_order>6</Purchase_order>
