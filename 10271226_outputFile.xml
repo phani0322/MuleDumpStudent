@@ -1,0 +1,641 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<HEADER>
+  <Invoice_number>10271226</Invoice_number>
+  <Project>PL-FA_V3</Project>
+  <Date>20231127</Date>
+  <Type>VAT</Type>
+  <Currency_code>PLN</Currency_code>
+  <VAT_currency_code>PLN</VAT_currency_code>
+  <Tax_point_date>20231124</Tax_point_date>
+  <Purchase_order>1</Purchase_order>
+  <Buyer_accounting>1</Buyer_accounting>
+  <Payment_terms>14</Payment_terms>
+  <Business_process>PL5</Business_process>
+  <Payment_service_provider_id>SWIFT/BIC: DEUTFRPP</Payment_service_provider_id>
+  <Line_net_amount>9796.10</Line_net_amount>
+  <Total_without_VAT>83.00</Total_without_VAT>
+  <Total_VAT_amount>1141.5</Total_VAT_amount>
+  <Invoice_total>10937.60</Invoice_total>
+  <Paid_amount>0</Paid_amount>
+  <Outstanding_amount>10937.60</Outstanding_amount>
+  <PARTIES>
+    <Qualifier>BY</Qualifier>
+    <VAT_number>5981473509</VAT_number>
+    <Trading_name>Przedsiebiorstwo Wielobranzowe Grzegorz Kukorowski</Trading_name>
+    <Address>ul. Walczaka</Address>
+    <Address_2>12e/2</Address_2>
+    <City>Gorzow Wielkopolski</City>
+    <Post_code>66-400</Post_code>
+    <Country_code>PL</Country_code>
+    <Legal_name>Przedsiebiorstwo Wielobranzowe Grzegorz Kukorowski</Legal_name>
+    <ADDITIONAL_PROPERTIES_PARTIES>
+      <Name>CUSNUM</Name>
+      <Value>10271302</Value>
+    </ADDITIONAL_PROPERTIES_PARTIES>
+  </PARTIES>
+  <PARTIES>
+    <Qualifier>PE</Qualifier>
+    <VAT_number>5270103824</VAT_number>
+    <Trading_name>SCHENKER SP. Z O.O.</Trading_name>
+    <Address>ul. Luzycka</Address>
+    <Address_2>8A (Biurowiec X)</Address_2>
+    <City>Gdynia</City>
+    <Post_code>81-537</Post_code>
+    <Country_code>PL</Country_code>
+    <Legal_registr_id>PL5270103824</Legal_registr_id>
+    <Legal_name>SCHENKER SP. Z O.O.</Legal_name>
+    <Contact>RQHJDHT IWKET XLFVQJYHYS</Contact>
+    <Telephone>+56 013 288089</Telephone>
+    <Email>anonymized-TANGO-user@dbschenker.com</Email>
+  </PARTIES>
+  <TAX>
+    <Taxable_amount>83</Taxable_amount>
+    <Tax_amount>0</Tax_amount>
+    <Tax_category_ID>zw</Tax_category_ID>
+    <Tax_type>VAT</Tax_type>
+    <Tax_rate>0</Tax_rate>
+    <Tax_amount_special>0</Tax_amount_special>
+  </TAX>
+  <TAX>
+    <Taxable_amount>4750.05</Taxable_amount>
+    <Tax_amount>0</Tax_amount>
+    <Tax_category_ID>np1</Tax_category_ID>
+    <Tax_type>VAT</Tax_type>
+    <Tax_rate>0</Tax_rate>
+    <Tax_amount_special>0</Tax_amount_special>
+  </TAX>
+  <TAX>
+    <Taxable_amount>4963.05</Taxable_amount>
+    <Tax_amount>1141.5</Tax_amount>
+    <Tax_category_ID>S</Tax_category_ID>
+    <Tax_type>VAT</Tax_type>
+    <Tax_rate>23</Tax_rate>
+    <Tax_amount_special>1141.5</Tax_amount_special>
+  </TAX>
+  <PAYMENT_INSTRUCTIONS>
+    <Payment_due_date>20231211</Payment_due_date>
+    <ADDITIONAL_PROPERTIES_PAYMENT>
+      <Name>TYPE</Name>
+      <Value>DEADLINE</Value>
+    </ADDITIONAL_PROPERTIES_PAYMENT>
+  </PAYMENT_INSTRUCTIONS>
+  <NOTES>
+    <Subject_code>Numer archiwalny</Subject_code>
+    <Text>GDYOI231154231</Text>
+  </NOTES>
+  <NOTES>
+    <Subject_code>Metoda płatności</Subject_code>
+    <Text>Bank Transfer</Text>
+  </NOTES>
+  <NOTES>
+    <Subject_code>Forma faktury</Subject_code>
+    <Text>Hardcopy</Text>
+  </NOTES>
+  <NOTES>
+    <Subject_code>Miesiąc ekonomiczny</Subject_code>
+    <Text>2023-11</Text>
+  </NOTES>
+  <NOTES>
+    <Subject_code>STT</Subject_code>
+    <Text>15690081708722</Text>
+  </NOTES>
+  <NOTES>
+    <Subject_code>Rodzaj usługi</Subject_code>
+    <Text>PORT OF LOADING TO DOOR</Text>
+  </NOTES>
+  <NOTES>
+    <Subject_code>Warunki handlowe</Subject_code>
+    <Text>FOB</Text>
+  </NOTES>
+  <NOTES>
+    <Subject_code>Rodzaj ładunku</Subject_code>
+    <Text>Full load</Text>
+  </NOTES>
+  <NOTES>
+    <Subject_code>Port/terminal załadunku</Subject_code>
+    <Text>CNNGB Ningbo</Text>
+  </NOTES>
+  <NOTES>
+    <Subject_code>Port/terminal wyładunku</Subject_code>
+    <Text>PLGDN Gdansk</Text>
+  </NOTES>
+  <NOTES>
+    <Subject_code>Miejsce dostawy</Subject_code>
+    <Text>PLGOW Gorzow Wielkopolski</Text>
+  </NOTES>
+  <NOTES>
+    <Subject_code>Numer wewnętrznego listu przewozowego</Subject_code>
+    <Text>CNNGB0000705383</Text>
+  </NOTES>
+  <NOTES>
+    <Subject_code>Numer zewnętrznego listu przewozowego</Subject_code>
+    <Text>NGP0552300</Text>
+  </NOTES>
+  <NOTES>
+    <Subject_code>Numer podróży</Subject_code>
+    <Text>COSCO SHIPPING GALAXY 020W</Text>
+  </NOTES>
+  <NOTES>
+    <Subject_code>Odbiorca</Subject_code>
+    <Text>Przedsiebiorstwo Wielobranzowe</Text>
+  </NOTES>
+  <NOTES>
+    <Subject_code>Nadawca</Subject_code>
+    <Text>Ningbo Waltmal Sanitary Wares</Text>
+  </NOTES>
+  <NOTES>
+    <Subject_code>Waga rzeczywista</Subject_code>
+    <Text>5290 KGM</Text>
+  </NOTES>
+  <NOTES>
+    <Subject_code>Objętość</Subject_code>
+    <Text>68 MTQ</Text>
+  </NOTES>
+  <NOTES>
+    <Subject_code>Oznakowanie</Subject_code>
+    <Text>FFAU4261221</Text>
+  </NOTES>
+  <NOTES>
+    <Subject_code>Plomba</Subject_code>
+    <Text>R0839545S</Text>
+  </NOTES>
+  <NOTES>
+    <Subject_code>Znaki i etykiety</Subject_code>
+    <Text>N/M</Text>
+  </NOTES>
+  <NOTES>
+    <Subject_code>HS kod</Subject_code>
+    <Text>392210</Text>
+  </NOTES>
+  <NOTES>
+    <Subject_code>Opis towaru</Subject_code>
+    <Text>.</Text>
+  </NOTES>
+  <NOTES>
+    <Subject_code>Ilość</Subject_code>
+    <Text>185 PK</Text>
+  </NOTES>
+  <NOTES>
+    <Subject_code>Data opodatkowania</Subject_code>
+    <Text>2023-11-24T18:00:00.000+01:00</Text>
+  </NOTES>
+  <NOTES>
+    <Subject_code>Kapitał zakładowy</Subject_code>
+    <Text>186.294.430 PLN</Text>
+  </NOTES>
+  <NOTES>
+    <Subject_code>Siedziba spółki</Subject_code>
+    <Text>ul. Żwirki i Wigury 16C 02-092 Warszawa</Text>
+  </NOTES>
+  <NOTES>
+    <Subject_code>Informacje podatkowe</Subject_code>
+    <Text>X</Text>
+  </NOTES>
+  <ADDITIONAL_PROPERTIES>
+    <Name>KRS</Name>
+    <Value>0000040104</Value>
+  </ADDITIONAL_PROPERTIES>
+  <ADDITIONAL_PROPERTIES>
+    <Name>REGON</Name>
+    <Value>010500539</Value>
+  </ADDITIONAL_PROPERTIES>
+  <ADDITIONAL_PROPERTIES>
+    <Name>BDO</Name>
+    <Value>000026152</Value>
+  </ADDITIONAL_PROPERTIES>
+  <ADDITIONAL_PROPERTIES>
+    <Name>TMS</Name>
+    <Value>TANGO</Value>
+  </ADDITIONAL_PROPERTIES>
+  <ADDITIONAL_PROPERTIES>
+    <Name>COUNTRY_CODE</Name>
+    <Value>PL</Value>
+  </ADDITIONAL_PROPERTIES>
+  <ADDITIONAL_PROPERTIES>
+    <Name>UUID</Name>
+    <Value>887F49345F4F46A2A138BD1095E33F37</Value>
+  </ADDITIONAL_PROPERTIES>
+  <ADDITIONAL_PROPERTIES>
+    <Name>INVOICE_TYPE</Name>
+    <Value>VAT</Value>
+  </ADDITIONAL_PROPERTIES>
+  <ADDITIONAL_PROPERTIES>
+    <Name>PARTNER_ID_MS</Name>
+    <Value>MYSCHEBLE0001</Value>
+  </ADDITIONAL_PROPERTIES>
+  <ADDITIONAL_PROPERTIES>
+    <Name>INVOICE_DATE</Name>
+    <Value>20231127</Value>
+  </ADDITIONAL_PROPERTIES>
+  <ADDITIONAL_PROPERTIES>
+    <Name>LINE_NET_AMOUNT</Name>
+    <Value>9796.10</Value>
+  </ADDITIONAL_PROPERTIES>
+  <ADDITIONAL_PROPERTIES>
+    <Name>CURRENCY_CODE</Name>
+    <Value>PLN</Value>
+  </ADDITIONAL_PROPERTIES>
+  <ADDITIONAL_PROPERTIES>
+    <Name>INVOICE_TOTAL</Name>
+    <Value>10937.60</Value>
+  </ADDITIONAL_PROPERTIES>
+  <ADDITIONAL_PROPERTIES>
+    <Name>TOTAL_VAT_AMOUNT</Name>
+    <Value>1141.5</Value>
+  </ADDITIONAL_PROPERTIES>
+  <ADDITIONAL_PROPERTIES>
+    <Name>PURCHASE_ORDER</Name>
+    <Value>15690081708722</Value>
+  </ADDITIONAL_PROPERTIES>
+  <ADDITIONAL_PROPERTIES>
+    <Name>TRANSPORT_MODE</Name>
+    <Value>1</Value>
+  </ADDITIONAL_PROPERTIES>
+  <ADDITIONAL_PROPERTIES>
+    <Name>TRANSPORT_TYPE</Name>
+    <Value>2</Value>
+  </ADDITIONAL_PROPERTIES>
+  <ADDITIONAL_PROPERTIES>
+    <Name>SYSTEM_MODEL</Name>
+    <Value>TANGO</Value>
+  </ADDITIONAL_PROPERTIES>
+  <ADDITIONAL_PROPERTIES>
+    <Name>FULLNAME</Name>
+    <Value>Sąd Rejonowy dla m.st. Warszawy, XIV Wydział Gospodarczy Krajowego Rejestru Sądowego</Value>
+  </ADDITIONAL_PROPERTIES>
+  <ADDITIONAL_PROPERTIES>
+    <Name>BANKINFO</Name>
+    <Value>PL10114011240000345094001011#mBANK S.A.##BREXPLPW#Accnt.: . (EUR)</Value>
+  </ADDITIONAL_PROPERTIES>
+  <ADDITIONAL_PROPERTIES>
+    <Name>BANKINFO</Name>
+    <Value>PL86114011240000345094001001#mBANK S.A.##BREXPLPW#Accnt.: . (PLN)</Value>
+  </ADDITIONAL_PROPERTIES>
+  <ADDITIONAL_PROPERTIES>
+    <Name>BANKINFO</Name>
+    <Value>PL69114011240000345094001016#mBANK S.A.##BREXPLPW#Accnt.: . (USD)</Value>
+  </ADDITIONAL_PROPERTIES>
+  <ADDITIONAL_PROPERTIES>
+    <Name>PAYMEANS</Name>
+    <Value>6</Value>
+  </ADDITIONAL_PROPERTIES>
+  <ADDITIONAL_PROPERTIES>
+    <Name>PL5</Name>
+    <Value>19A</Value>
+  </ADDITIONAL_PROPERTIES>
+  <ADDITIONAL_PROPERTIES>
+    <Name>TAX_EXEMPTION_REASON</Name>
+    <Value>ZWOLNIONE Z VAT, ART.43 UST.1 PKT 37 USTAWY O VAT / TAX EXEMPT</Value>
+  </ADDITIONAL_PROPERTIES>
+  <LINE>
+    <Line_ID>1</Line_ID>
+    <Name>ISPS / CFS / IFS</Name>
+    <Description>ISPS / CFS / IFS</Description>
+    <Quantity>1</Quantity>
+    <Net_price>131.17</Net_price>
+    <Gross_price>131.17</Gross_price>
+    <Net_amount>131.17</Net_amount>
+    <TAX_LINE>
+      <Tax_category_ID>0KR</Tax_category_ID>
+      <Tax_type>VAT</Tax_type>
+      <Tax_rate>0 KR</Tax_rate>
+      <Tax_amount>0.00</Tax_amount>
+    </TAX_LINE>
+    <ADDITIONAL_PROPERTIES_LINE>
+      <Name>ADDITIONAL_COMMENT</Name>
+      <Value>Waga brutto#5290.000</Value>
+    </ADDITIONAL_PROPERTIES_LINE>
+    <ADDITIONAL_PROPERTIES_LINE>
+      <Name>ADDITIONAL_COMMENT</Name>
+      <Value>Objętość brutto#68.000</Value>
+    </ADDITIONAL_PROPERTIES_LINE>
+    <ADDITIONAL_PROPERTIES_LINE>
+      <Name>ADDITIONAL_COMMENT</Name>
+      <Value>Kurs walutyEUR#4.3722</Value>
+    </ADDITIONAL_PROPERTIES_LINE>
+    <ADDITIONAL_PROPERTIES_LINE>
+      <Name>ADDITIONAL_COMMENT</Name>
+      <Value>Stawka bazowa#30.00 EUR</Value>
+    </ADDITIONAL_PROPERTIES_LINE>
+    <ADDITIONAL_PROPERTIES_LINE>
+      <Name>CHARGE</Name>
+      <Value>131.17</Value>
+    </ADDITIONAL_PROPERTIES_LINE>
+    <ADDITIONAL_PROPERTIES_LINE>
+      <Name>CHARGE_UUID</Name>
+      <Value>3C4720DFB2E64DDCB70B9B11DFB5640D</Value>
+    </ADDITIONAL_PROPERTIES_LINE>
+  </LINE>
+  <LINE>
+    <Line_ID>2</Line_ID>
+    <Name>Ubezpieczenie CARGO</Name>
+    <Description>Ubezpieczenie CARGO</Description>
+    <Quantity>1</Quantity>
+    <Net_price>83.00</Net_price>
+    <Gross_price>83</Gross_price>
+    <Net_amount>83.00</Net_amount>
+    <TAX_LINE>
+      <Tax_category_ID>zw</Tax_category_ID>
+      <Tax_type>VAT</Tax_type>
+      <Tax_rate>zw</Tax_rate>
+      <Tax_amount>0.00</Tax_amount>
+    </TAX_LINE>
+    <ADDITIONAL_PROPERTIES_LINE>
+      <Name>ADDITIONAL_COMMENT</Name>
+      <Value>Waga brutto#5290.000</Value>
+    </ADDITIONAL_PROPERTIES_LINE>
+    <ADDITIONAL_PROPERTIES_LINE>
+      <Name>ADDITIONAL_COMMENT</Name>
+      <Value>Objętość brutto#68.000</Value>
+    </ADDITIONAL_PROPERTIES_LINE>
+    <ADDITIONAL_PROPERTIES_LINE>
+      <Name>ADDITIONAL_COMMENT</Name>
+      <Value>Kurs walutyPLN#1</Value>
+    </ADDITIONAL_PROPERTIES_LINE>
+    <ADDITIONAL_PROPERTIES_LINE>
+      <Name>ADDITIONAL_COMMENT</Name>
+      <Value>Stawka bazowa#83.00 PLN</Value>
+    </ADDITIONAL_PROPERTIES_LINE>
+    <ADDITIONAL_PROPERTIES_LINE>
+      <Name>CHARGE</Name>
+      <Value>83.00</Value>
+    </ADDITIONAL_PROPERTIES_LINE>
+    <ADDITIONAL_PROPERTIES_LINE>
+      <Name>CHARGE_UUID</Name>
+      <Value>D6A69EF566874F1489011040821C61BA</Value>
+    </ADDITIONAL_PROPERTIES_LINE>
+  </LINE>
+  <LINE>
+    <Line_ID>3</Line_ID>
+    <Name>Korekta Paliwowa L?dowa</Name>
+    <Description>Korekta Paliwowa L?dowa</Description>
+    <Quantity>1</Quantity>
+    <Net_price>215.25</Net_price>
+    <Gross_price>264.76</Gross_price>
+    <Net_amount>215.25</Net_amount>
+    <TAX_LINE>
+      <Tax_category_ID>S</Tax_category_ID>
+      <Tax_type>VAT</Tax_type>
+      <Tax_rate>23</Tax_rate>
+      <Tax_amount>49.51</Tax_amount>
+    </TAX_LINE>
+    <ADDITIONAL_PROPERTIES_LINE>
+      <Name>ADDITIONAL_COMMENT</Name>
+      <Value>Waga brutto#5290.000</Value>
+    </ADDITIONAL_PROPERTIES_LINE>
+    <ADDITIONAL_PROPERTIES_LINE>
+      <Name>ADDITIONAL_COMMENT</Name>
+      <Value>Objętość brutto#68.000</Value>
+    </ADDITIONAL_PROPERTIES_LINE>
+    <ADDITIONAL_PROPERTIES_LINE>
+      <Name>ADDITIONAL_COMMENT</Name>
+      <Value>Kurs walutyPLN#1</Value>
+    </ADDITIONAL_PROPERTIES_LINE>
+    <ADDITIONAL_PROPERTIES_LINE>
+      <Name>ADDITIONAL_COMMENT</Name>
+      <Value>Stawka bazowa#215.25 PLN</Value>
+    </ADDITIONAL_PROPERTIES_LINE>
+    <ADDITIONAL_PROPERTIES_LINE>
+      <Name>CHARGE</Name>
+      <Value>215.25</Value>
+    </ADDITIONAL_PROPERTIES_LINE>
+    <ADDITIONAL_PROPERTIES_LINE>
+      <Name>CHARGE_UUID</Name>
+      <Value>D79A349017AF4F9AB215EB11E85B9CC3</Value>
+    </ADDITIONAL_PROPERTIES_LINE>
+  </LINE>
+  <LINE>
+    <Line_ID>4</Line_ID>
+    <Name>Op?aty terminalowe w kraju dostawy</Name>
+    <Description>Op?aty terminalowe w kraju dostawy</Description>
+    <Quantity>1</Quantity>
+    <Net_price>787.81</Net_price>
+    <Gross_price>787.81</Gross_price>
+    <Net_amount>787.81</Net_amount>
+    <TAX_LINE>
+      <Tax_category_ID>0KR</Tax_category_ID>
+      <Tax_type>VAT</Tax_type>
+      <Tax_rate>0 KR</Tax_rate>
+      <Tax_amount>0.00</Tax_amount>
+    </TAX_LINE>
+    <ADDITIONAL_PROPERTIES_LINE>
+      <Name>ADDITIONAL_COMMENT</Name>
+      <Value>Waga brutto#5290.000</Value>
+    </ADDITIONAL_PROPERTIES_LINE>
+    <ADDITIONAL_PROPERTIES_LINE>
+      <Name>ADDITIONAL_COMMENT</Name>
+      <Value>Objętość brutto#68.000</Value>
+    </ADDITIONAL_PROPERTIES_LINE>
+    <ADDITIONAL_PROPERTIES_LINE>
+      <Name>ADDITIONAL_COMMENT</Name>
+      <Value>Kurs walutyEUR#4.3767</Value>
+    </ADDITIONAL_PROPERTIES_LINE>
+    <ADDITIONAL_PROPERTIES_LINE>
+      <Name>ADDITIONAL_COMMENT</Name>
+      <Value>Stawka bazowa#180.00 EUR</Value>
+    </ADDITIONAL_PROPERTIES_LINE>
+    <ADDITIONAL_PROPERTIES_LINE>
+      <Name>CHARGE</Name>
+      <Value>787.81</Value>
+    </ADDITIONAL_PROPERTIES_LINE>
+    <ADDITIONAL_PROPERTIES_LINE>
+      <Name>CHARGE_UUID</Name>
+      <Value>235E217F5B2A4140B96D6E326A676B14</Value>
+    </ADDITIONAL_PROPERTIES_LINE>
+  </LINE>
+  <LINE>
+    <Line_ID>5</Line_ID>
+    <Name>Odprawa celna</Name>
+    <Description>Odprawa celna</Description>
+    <Quantity>1</Quantity>
+    <Net_price>525.20</Net_price>
+    <Gross_price>646</Gross_price>
+    <Net_amount>525.20</Net_amount>
+    <TAX_LINE>
+      <Tax_category_ID>S</Tax_category_ID>
+      <Tax_type>VAT</Tax_type>
+      <Tax_rate>23</Tax_rate>
+      <Tax_amount>120.80</Tax_amount>
+    </TAX_LINE>
+    <ADDITIONAL_PROPERTIES_LINE>
+      <Name>ADDITIONAL_COMMENT</Name>
+      <Value>Waga brutto#5290.000</Value>
+    </ADDITIONAL_PROPERTIES_LINE>
+    <ADDITIONAL_PROPERTIES_LINE>
+      <Name>ADDITIONAL_COMMENT</Name>
+      <Value>Objętość brutto#68.000</Value>
+    </ADDITIONAL_PROPERTIES_LINE>
+    <ADDITIONAL_PROPERTIES_LINE>
+      <Name>ADDITIONAL_COMMENT</Name>
+      <Value>Kurs walutyEUR#4.3767</Value>
+    </ADDITIONAL_PROPERTIES_LINE>
+    <ADDITIONAL_PROPERTIES_LINE>
+      <Name>ADDITIONAL_COMMENT</Name>
+      <Value>Stawka bazowa#120.00 EUR</Value>
+    </ADDITIONAL_PROPERTIES_LINE>
+    <ADDITIONAL_PROPERTIES_LINE>
+      <Name>CHARGE</Name>
+      <Value>525.20</Value>
+    </ADDITIONAL_PROPERTIES_LINE>
+    <ADDITIONAL_PROPERTIES_LINE>
+      <Name>CHARGE_UUID</Name>
+      <Value>60C9C987DCD34F6EB4089188F0D4E791</Value>
+    </ADDITIONAL_PROPERTIES_LINE>
+  </LINE>
+  <LINE>
+    <Line_ID>6</Line_ID>
+    <Name>Dostawa w imporcie</Name>
+    <Description>Dostawa w imporcie</Description>
+    <Quantity>1</Quantity>
+    <Net_price>3750.00</Net_price>
+    <Gross_price>4612.49</Gross_price>
+    <Net_amount>3750.00</Net_amount>
+    <TAX_LINE>
+      <Tax_category_ID>S</Tax_category_ID>
+      <Tax_type>VAT</Tax_type>
+      <Tax_rate>23</Tax_rate>
+      <Tax_amount>862.49</Tax_amount>
+    </TAX_LINE>
+    <ADDITIONAL_PROPERTIES_LINE>
+      <Name>ADDITIONAL_COMMENT</Name>
+      <Value>Waga brutto#5290.000</Value>
+    </ADDITIONAL_PROPERTIES_LINE>
+    <ADDITIONAL_PROPERTIES_LINE>
+      <Name>ADDITIONAL_COMMENT</Name>
+      <Value>Objętość brutto#68.000</Value>
+    </ADDITIONAL_PROPERTIES_LINE>
+    <ADDITIONAL_PROPERTIES_LINE>
+      <Name>ADDITIONAL_COMMENT</Name>
+      <Value>Kurs walutyPLN#1</Value>
+    </ADDITIONAL_PROPERTIES_LINE>
+    <ADDITIONAL_PROPERTIES_LINE>
+      <Name>ADDITIONAL_COMMENT</Name>
+      <Value>Stawka bazowa#3750.00 PLN</Value>
+    </ADDITIONAL_PROPERTIES_LINE>
+    <ADDITIONAL_PROPERTIES_LINE>
+      <Name>CHARGE</Name>
+      <Value>3750.00</Value>
+    </ADDITIONAL_PROPERTIES_LINE>
+    <ADDITIONAL_PROPERTIES_LINE>
+      <Name>CHARGE_UUID</Name>
+      <Value>C0E3E57698634637BAC775CEB0208713</Value>
+    </ADDITIONAL_PROPERTIES_LINE>
+  </LINE>
+  <LINE>
+    <Line_ID>7</Line_ID>
+    <Name>Odprawa przekazowa T1</Name>
+    <Description>Odprawa przekazowa T1</Description>
+    <Quantity>1</Quantity>
+    <Net_price>210.00</Net_price>
+    <Gross_price>258.3</Gross_price>
+    <Net_amount>210.00</Net_amount>
+    <TAX_LINE>
+      <Tax_category_ID>S</Tax_category_ID>
+      <Tax_type>VAT</Tax_type>
+      <Tax_rate>23</Tax_rate>
+      <Tax_amount>48.30</Tax_amount>
+    </TAX_LINE>
+    <ADDITIONAL_PROPERTIES_LINE>
+      <Name>ADDITIONAL_COMMENT</Name>
+      <Value>Waga brutto#5290.000</Value>
+    </ADDITIONAL_PROPERTIES_LINE>
+    <ADDITIONAL_PROPERTIES_LINE>
+      <Name>ADDITIONAL_COMMENT</Name>
+      <Value>Objętość brutto#68.000</Value>
+    </ADDITIONAL_PROPERTIES_LINE>
+    <ADDITIONAL_PROPERTIES_LINE>
+      <Name>ADDITIONAL_COMMENT</Name>
+      <Value>Kurs walutyPLN#1</Value>
+    </ADDITIONAL_PROPERTIES_LINE>
+    <ADDITIONAL_PROPERTIES_LINE>
+      <Name>ADDITIONAL_COMMENT</Name>
+      <Value>Stawka bazowa#210.00 PLN</Value>
+    </ADDITIONAL_PROPERTIES_LINE>
+    <ADDITIONAL_PROPERTIES_LINE>
+      <Name>CHARGE</Name>
+      <Value>210.00</Value>
+    </ADDITIONAL_PROPERTIES_LINE>
+    <ADDITIONAL_PROPERTIES_LINE>
+      <Name>CHARGE_UUID</Name>
+      <Value>F906EC1958A54E438824574B66B347BF</Value>
+    </ADDITIONAL_PROPERTIES_LINE>
+  </LINE>
+  <LINE>
+    <Line_ID>8</Line_ID>
+    <Name>Op?ata dokumentacyjna</Name>
+    <Description>Op?ata dokumentacyjna</Description>
+    <Quantity>1</Quantity>
+    <Net_price>262.60</Net_price>
+    <Gross_price>323</Gross_price>
+    <Net_amount>262.60</Net_amount>
+    <TAX_LINE>
+      <Tax_category_ID>S</Tax_category_ID>
+      <Tax_type>VAT</Tax_type>
+      <Tax_rate>23</Tax_rate>
+      <Tax_amount>60.40</Tax_amount>
+    </TAX_LINE>
+    <ADDITIONAL_PROPERTIES_LINE>
+      <Name>ADDITIONAL_COMMENT</Name>
+      <Value>Waga brutto#5290.000</Value>
+    </ADDITIONAL_PROPERTIES_LINE>
+    <ADDITIONAL_PROPERTIES_LINE>
+      <Name>ADDITIONAL_COMMENT</Name>
+      <Value>Objętość brutto#68.000</Value>
+    </ADDITIONAL_PROPERTIES_LINE>
+    <ADDITIONAL_PROPERTIES_LINE>
+      <Name>ADDITIONAL_COMMENT</Name>
+      <Value>Kurs walutyEUR#4.3767</Value>
+    </ADDITIONAL_PROPERTIES_LINE>
+    <ADDITIONAL_PROPERTIES_LINE>
+      <Name>ADDITIONAL_COMMENT</Name>
+      <Value>Stawka bazowa#60.00 EUR</Value>
+    </ADDITIONAL_PROPERTIES_LINE>
+    <ADDITIONAL_PROPERTIES_LINE>
+      <Name>CHARGE</Name>
+      <Value>262.60</Value>
+    </ADDITIONAL_PROPERTIES_LINE>
+    <ADDITIONAL_PROPERTIES_LINE>
+      <Name>CHARGE_UUID</Name>
+      <Value>2B96DCA8686C4391B94EA544EB0DC02E</Value>
+    </ADDITIONAL_PROPERTIES_LINE>
+  </LINE>
+  <LINE>
+    <Line_ID>9</Line_ID>
+    <Name>Fracht</Name>
+    <Description>Fracht</Description>
+    <Quantity>1</Quantity>
+    <Net_price>3831.07</Net_price>
+    <Gross_price>3831.07</Gross_price>
+    <Net_amount>3831.07</Net_amount>
+    <TAX_LINE>
+      <Tax_category_ID>0KR</Tax_category_ID>
+      <Tax_type>VAT</Tax_type>
+      <Tax_rate>0 KR</Tax_rate>
+      <Tax_amount>0.00</Tax_amount>
+    </TAX_LINE>
+    <ADDITIONAL_PROPERTIES_LINE>
+      <Name>ADDITIONAL_COMMENT</Name>
+      <Value>Waga brutto#5290.000</Value>
+    </ADDITIONAL_PROPERTIES_LINE>
+    <ADDITIONAL_PROPERTIES_LINE>
+      <Name>ADDITIONAL_COMMENT</Name>
+      <Value>Objętość brutto#68.000</Value>
+    </ADDITIONAL_PROPERTIES_LINE>
+    <ADDITIONAL_PROPERTIES_LINE>
+      <Name>ADDITIONAL_COMMENT</Name>
+      <Value>Kurs walutyUSD#4.0327</Value>
+    </ADDITIONAL_PROPERTIES_LINE>
+    <ADDITIONAL_PROPERTIES_LINE>
+      <Name>ADDITIONAL_COMMENT</Name>
+      <Value>Stawka bazowa#950.00 USD</Value>
+    </ADDITIONAL_PROPERTIES_LINE>
+    <ADDITIONAL_PROPERTIES_LINE>
+      <Name>CHARGE</Name>
+      <Value>3831.07</Value>
+    </ADDITIONAL_PROPERTIES_LINE>
+    <ADDITIONAL_PROPERTIES_LINE>
+      <Name>CHARGE_UUID</Name>
+      <Value>45B4E8BCBFA74450B26FF2A9D985A009</Value>
+    </ADDITIONAL_PROPERTIES_LINE>
+  </LINE>
+</HEADER>
